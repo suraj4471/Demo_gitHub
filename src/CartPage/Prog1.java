@@ -6,6 +6,8 @@ public class Prog1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("this is payment page");
+		
+	System.out.println("new added");
 	}
 
 }
