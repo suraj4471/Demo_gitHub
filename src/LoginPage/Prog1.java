@@ -6,7 +6,7 @@ public class Prog1 {
 		
 		System.out.println("enter user name");
 		
-		System.out.println("Enter Password");
+		System.out.println(" modified Enter Password");
 	}
 
 }
